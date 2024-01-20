@@ -1,0 +1,38 @@
+nav{
+  height: 30px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px 50px;
+  display: flex;
+}
+nav ul{
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+nav ul li{
+  text-decoration: none;
+  font-size: 20px;
+  list-style: none;
+}
+nav .link{
+  text-decoration: none;
+  color: black;
+}
+nav .login{
+  background-color: #FF7C7C;
+  text-decoration: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+
+footer{
+  display: grid;
+  place-items: center;
+  padding: 30px 0px;
+}
+footer li{
+  list-style: none;
+}

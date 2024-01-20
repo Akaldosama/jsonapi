@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "fullname": "Yunusov Umar",
+      "department": "IT",
+      "gender": "male",
+      "birthDate": "21-06-2002",
+      "id": "0a0d"
+    }
+  ]
+}
